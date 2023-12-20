@@ -1,3 +1,18 @@
+galaxy-importer 0.4.18 (2023-12-06)
+===================================
+
+No significant changes.
+
+
+galaxy-importer 0.4.17 (2023-12-05)
+===================================
+
+Bugfixes
+--------
+
+- Raise exceptions with invalid paths in collection tarballs. (`AAH-2992 <https://issues.redhat.com/browse/AAH-2992>`_)
+
+
 galaxy-importer 0.4.16 (2023-11-03)
 ===================================
 
